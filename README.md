@@ -1,4 +1,4 @@
-# Portifolio photos
+# Portfolio photos
 
 > project to learn git and github
 
